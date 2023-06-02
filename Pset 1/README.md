@@ -21,6 +21,16 @@
 ![pigbirdKernel.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/pigbirdKernel.png)
 
 #### Questão 5:
+matriz de desfoque de 3x3:
+K = [[2 2 2
+    [2 2 2]
+    [2 2 2]]
+A soma de todos os elementos de K é 18. portanto o kernel seria:
+k = [[2/18 2/18 2/18]
+    [2/18 2/18 2/18]
+    [2/18 2/18 2/18]]
+ 
+ 
 
 ![pythonFocada.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/pythonFocada.png)
 #### Questão 6:
