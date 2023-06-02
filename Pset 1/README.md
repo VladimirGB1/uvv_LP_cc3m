@@ -29,7 +29,20 @@ A soma de todos os elementos de K é 18. portanto o kernel seria:
 k = [[2/18 2/18 2/18]
     [2/18 2/18 2/18]
     [2/18 2/18 2/18]]
- 
+exeplo de imagem desfocada B de tamanho 5x5:
+B =
+[[10 20 30 40 50]
+[15 25 35 45 55]
+[20 30 40 50 60]
+[25 35 45 55 65]
+[30 40 50 60 70]]
+o valor do pixel na posição (2,2) da imagem nítida como exemplo:
+(2,2) = (152/18 + 252/18 + 352/18 + 202/18 + 302/18 + 402/18 + 202/18 + 302/18 + 40*2/18)
+calculo:
+(2,2) = (152/18 + 252/18 + 352/18 + 202/18 + 302/18 + 402/18 + 202/18 + 302/18 + 40*2/18)
+= (30/18 + 50/18 + 70/18 + 40/18 + 60/18 + 80/18 + 40/18 + 60/18 + 80/18)
+= (330/18)
+= 18.33
  
 
 ![pythonFocada.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/pythonFocada.png)
