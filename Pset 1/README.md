@@ -18,7 +18,9 @@
 #### Ox,y = 32.76
 
 #### Questão 4:
+![pigbirdKernel.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/pigbirdKernel.png)
 
 #### Questão 5:
 
 #### Questão 6:
+
