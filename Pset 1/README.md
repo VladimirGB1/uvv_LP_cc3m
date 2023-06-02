@@ -24,5 +24,5 @@
 
 ![pythonFocada.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/pythonFocada.png)
 #### Questão 6:
-
+Basicamente o que o kernel X faz e destacar as bordas horizontas e o kernel y destaca as bordas verticais.
 ![constructBordas.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/constructBordas.png)
