@@ -25,3 +25,4 @@
 ![pythonFocada.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/pythonFocada.png)
 #### Questão 6:
 
+![constructBordas.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/constructBordas.png)
