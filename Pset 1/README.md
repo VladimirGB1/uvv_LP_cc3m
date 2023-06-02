@@ -21,7 +21,7 @@
 ![pigbirdKernel.png](https://github.com/VladimirGB1/uvv_LP_cc3m/blob/main/Pset%201/Imagens/pigbirdKernel.png)
 
 #### Questão 5:
-
+#### Sim é possivel, justificativa:
 #### matriz de desfoque de 3x3:
 #### K = [[2 2 2
 ####     [2 2 2]
